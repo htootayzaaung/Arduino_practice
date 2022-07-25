@@ -1,0 +1,13 @@
+red_LED:
+
+green_LED:
+
+yellow_LED: 2.92V
+
+red_resistor_LED:
+
+green_resistor_LED: 2.1V
+
+yellow_resistor_LED:
+
+push_button:
