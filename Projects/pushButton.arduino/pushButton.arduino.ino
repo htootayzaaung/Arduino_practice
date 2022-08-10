@@ -1,5 +1,5 @@
-
-const int pushButtonPin = 2;  
+const int pushButtonPin = 2;
+  
 const int ledPin1 =  13;
 const int ledPin2 =  12;
 const int ledPin3 =  8;
